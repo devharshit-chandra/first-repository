@@ -1,3 +1,3 @@
 import {random} from "./module6.js"
-let b=random()
-console.log("random number : ",b)
+let a=random()
+console.log("random number : ",a)
