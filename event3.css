@@ -1,0 +1,9 @@
+#container{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    color: white;
+}
+body{
+    padding: 3rem;
+    background-image: linear-gradient(red,orange,pink);
+}
